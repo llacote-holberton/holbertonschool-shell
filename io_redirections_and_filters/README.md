@@ -25,4 +25,7 @@ This folder holds all scripts related to Text manipulations and I/O Redirections
 |20-hiago                     | Removes all kind of c from input to create custom Chaos xd.                                        | 
 |21-reverse                   | Reverses input's characters orders to help people learn "Verlan", a popular French slang.          | 
 |22-users_and_homes           | Uses passwd efficiently now to get ordered list of users with their homes (no doxxing though).     | 
-
+|23-empty_casks               | Shows in column the filenames of paths matching empty files/dir, whether hidden or not.            |
+|24-gifs                      | List filenames of .gif's existing from current point, sorted by case-insensitive byte-value.       |
+|25-acrostic                  | Decodes a first-letter-of-line acrostic.                                                           |
+|26-the_biggest_fan           | Processes TSV logs to identify and show the 11 hosts/IP having made the most requests.             |
